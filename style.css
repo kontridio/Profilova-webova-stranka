@@ -1,0 +1,125 @@
+body {
+    background-image: url(images/main\ background.jpg);
+    background-attachment: fixed;
+}
+
+main {
+    font-size: 18px;
+    border-radius: 10px;
+    opacity: 0.9;
+}
+
+h1 {
+    font-family:"Helvetica Neue", Arial, sans-serif;
+}
+
+header {
+    min-height: 900px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    box-shadow: 6px 6px 6px rgba(0, 0, 0, 0.329);
+}
+
+footer {
+    opacity: 0.9;
+}
+
+
+#header {
+    min-height: 700px;
+    border-radius: 10px;
+    margin: 30px;
+    padding: 25px;
+    box-shadow: 6px 6px 6px rgba(0, 0, 0, 0.329);
+    opacity: 0.9;
+}
+
+#header21 {
+    min-height: 300px;
+    margin-bottom: 10px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 21px;
+    box-shadow: 6px 6px 6px rgba(0, 0, 0, 0.329);
+}
+
+#header2 {
+    min-height: 200px;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 25px;
+    box-shadow: 6px 6px 6px rgba(0, 0, 0, 0.329);
+    opacity: 0.9;
+}
+
+#main {
+    border-radius: 10px;
+    box-shadow: 6px 6px 6px rgba(0, 0, 0, 0.329);
+}
+
+#tom {
+    border-radius: 25px;
+}
+
+#work {
+    margin-left: 60%;
+    width: 15%;
+}
+
+#navbar {
+    border-radius: 0px 0px 10px 0px;
+    font-size: 25px;
+    box-shadow: 6px 6px 6px rgba(0, 0, 0, 0.329);
+    opacity: 0.9;
+}
+
+#scale {
+    font-size: 25px;
+}
+
+#icons {
+    margin-left: 43%;
+    margin-top: 20%;
+}
+
+#icon2 {
+    margin-bottom: 20px;
+}
+
+#pictures {
+    max-height: 250px;
+}
+
+#popis {
+   margin-top: 6%;
+    font-size: 20px;
+}
+
+.display-4 {
+    font-size: 35px;
+}
+
+.nav-link {
+    background-color: #263b46!important;
+    box-shadow: 5px 5px rgba(0, 0, 0, 0.082);
+    margin-top: 20px;
+}
+
+.bg-danger {
+    color: #597884!important;
+    background-color: #597884!important;
+}
+
+bg-dark{
+    color: #00070a!important;
+}
+
+.bg-secondary {
+    color: #294552!important;
+    background-color: #294552!important;
+}
+
+
+.bg-primary {
+    color: #9eb9b3!important;
+    background-color: #9eb9b3!important;
+}
